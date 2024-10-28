@@ -1,0 +1,2 @@
+# git-training
+bez opisaniya
